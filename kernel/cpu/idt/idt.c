@@ -1,5 +1,5 @@
 #include "../bzc.idt.h"
-#include <arc/print.h>
+#include <cze/print.h>
 
 const s8 *exceptionMessages[31] = {
   "Division By Zero",
