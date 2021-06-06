@@ -1,4 +1,4 @@
-##Setup Script for new Machines
+## Setup Script for new Machines
 
 # Variables for this session
 export PREFIX="/usr/local/x86_64elfgcc"
