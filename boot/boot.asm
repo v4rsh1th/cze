@@ -52,7 +52,7 @@ afterSwitch:
   hlt ; Halt CPU
 
 ; Intro Message
-intro db "Arc", 0
+intro db "Cze", 0
 
 ; Boot Drive Location
 bootDrive db 0
